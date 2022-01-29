@@ -1,0 +1,4 @@
+***AutoSarts for Linux***
+
+1. python main.py
+2. open ~/.local/share/autostarts/autostarts.db in your prefered sql viewer
